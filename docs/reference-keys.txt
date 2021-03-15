@@ -10,10 +10,7 @@ exercise-swirl
 exercise-learnr-optional
 calculus
 introduction
-trigonometrics
 derivatives
-integration
-taylor-expansion
 probability-theory
 introduction-1
 sets
@@ -29,6 +26,7 @@ mathematics-for-statisticians
 statistics-probability
 statistical-computing-in-r
 linear-generalized-linear-models
+statistics-and-data-science-in-practice
 mixed-models
 bayesian-statistics
 study-design
